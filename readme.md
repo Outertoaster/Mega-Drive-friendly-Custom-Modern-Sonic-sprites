@@ -5,9 +5,8 @@ Give credit when using.
 
 (can also be used in fangames)
 
-==
 
 ![Spritesheet](Sonic.png)
 
-==
-**[Twitter](https://twitter.com/outertoaster)**
+## Links
+[Twitter](https://twitter.com/outertoaster)
